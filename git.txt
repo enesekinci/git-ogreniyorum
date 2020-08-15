@@ -13,7 +13,8 @@ Git versionları listelemek
 Git projedeki değişiklikleri listelemek
 	=> git status (projedeki dizinle git deposu arasında fark varmı bunu listeler.)
 
-
+Projedeki dosyalar üzerinde yapılan değişikleri listelemek
+	=> git diff
 
 
 
