@@ -16,6 +16,12 @@ Git projedeki değişiklikleri listelemek
 Projedeki dosyalar üzerinde yapılan değişikleri listelemek
 	=> git diff
 
+Git deposundaki bir dosyayı silmek
+	=> git rm file_name
+
+Git deposundaki bir klasörü ve içindekileri silmek
+	=> git rm -r folder_name/
+
 
 
 
