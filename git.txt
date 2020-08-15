@@ -1,0 +1,47 @@
+Git projesi oluşturmak
+	=> git init
+
+Gite dosya eklemek
+	=> git add [.(nokta) kullanarak dizindeki bütün dosyaları ekleyebiliriz veya dosya adı eklenebilir.] (Eklenen belgeler geçiş bölgesindedir.)
+
+Dosyaları git deposuna eklemek (Commit etmek)
+	=> git commit -m "commit açıklama"
+
+Git versionları listelemek
+	=> git log (kaydedilen commitleri - versionları listeler)
+
+Git projedeki değişiklikleri listelemek
+	=> git status (projedeki dizinle git deposu arasında fark varmı bunu listeler.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
