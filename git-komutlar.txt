@@ -84,4 +84,7 @@ Git projesinde branch'ları birleştirmek
 Git projesinde branch silmek
 	=> git branch -d branch_name
 
+Git projesinde remote branch silmek
+	=> git push repo_name --delete branch_name
+
 
