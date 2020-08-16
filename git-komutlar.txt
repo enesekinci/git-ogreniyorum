@@ -42,6 +42,10 @@ Geçiş bölgesindeki dosyanın geri alınması
 Git dosyalarındaki versiyonları değiştirmek (Geri almak)
 	=> git checkout commit_code -- . or file_name 		(. nokta ile bütün dosyaların versiyonları değiştirilir. veya dosya adı ile tek dosya)
 
+Git projesinde dosyaları geçiş bölgesinden silmeden -> commit silmek 
+	=> git reset --soft commit_code
+
+
 Git projesi için GITHUB Adresi eklemek
 	=> git remote add depo_name github_adress 
 
