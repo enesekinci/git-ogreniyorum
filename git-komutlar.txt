@@ -57,7 +57,8 @@ Git projesindeki özel dosyaların kaydedilmesini engellemek
 Git projesindeki gizli dosyaları listelemek
 	=> cat .gitignore
 
-
+Git .gitignore dosyasını düzenlemek
+	=> .gitignore (terminale bunu yazarak editorde direkt açabiliriz)
 
 
 
