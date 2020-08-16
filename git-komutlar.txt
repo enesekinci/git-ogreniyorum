@@ -30,8 +30,7 @@ Git deposundaki dosyanın konumunu değiştirmek
 
 Dizindeki dosya değişiklerini geri almak (commit edilmemiş değişiklikler)
 	=> git checkout -- file_name
-
-
+	=> git restore file_name (bu kullanım daha kolay)
 
 
 
