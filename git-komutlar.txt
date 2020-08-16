@@ -48,6 +48,11 @@ Gitdeki kayıtlı depoları listelemek
 Git projesini Github'a push etmek
 	=> git push -u depo_name master (-u parametresi bütün dosyaların yollanmasını sağlıyor. master ise projenin dalını temsil ediyor.)
 
+Git projesindeki özel dosyaların kaydedilmesini engellemek
+	=> cat >> .gitignore
+	=> .gitignore
+	=> file_name dosyanin içine yazilacak.
+	=> git commit -m "dosyalar gizlendi"
 
 
 
