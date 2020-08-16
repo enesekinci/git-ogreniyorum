@@ -42,6 +42,9 @@ Git dosyalarındaki versiyonları değiştirmek (Geri almak)
 Git projesi için GITHUB Adresi eklemek
 	=> git remote add depo_name github_adress 
 
+Gitdeki kayıtlı depoları listelemek
+	=>git remote
+
 
 
 
