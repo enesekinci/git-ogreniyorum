@@ -81,4 +81,7 @@ Git projesinde branchlar arasındaki farklılıkları listelemek
 Git projesinde branch'ları birleştirmek
 	=> git merge branch_name branch_name (branch_name => birleşecek dallardan birinde bulunuluyorsa ikisini yazmaya gerek yok.)
 
+Git projesinde branch silmek
+	=> git branch -d branch_name
+
 
