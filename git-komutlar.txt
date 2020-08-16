@@ -22,6 +22,11 @@ Git deposundaki bir dosyayı silmek
 Git deposundaki bir klasörü ve içindekileri silmek
 	=> git rm -r folder_name/
 
+Git deposundaki dosyanın adını değiştirmek
+	=> git mv old_file_name new_file_name
+
+Git deposundaki dosyanın konumunu değiştirmek
+	=> git mv old_file_name new_directory
 
 
 
