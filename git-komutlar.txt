@@ -36,8 +36,8 @@ Geçiş bölgesindeki dosyanın geri alınması
 	=> git restore --staged file_name (dosya geçiş bölgesinden çıkarıldı)
 	=> git restore file_name (dosya durumu eskiye döndü, -> içini sildiysen geri almış oldun.)
 
-
-
+Git dosyalarındaki versiyonları değiştirmek (Geri almak)
+	=> git checkout commit_code -- . or file_name 		(. nokta ile bütün dosyaların versiyonları değiştirilir. veya dosya adı ile tek dosya)
 
 
 
