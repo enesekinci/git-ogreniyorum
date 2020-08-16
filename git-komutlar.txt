@@ -82,16 +82,3 @@ Git projesinde branch'ları birleştirmek
 	=> git merge branch_name branch_name (branch_name => birleşecek dallardan birinde bulunuluyorsa ikisini yazmaya gerek yok.)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
