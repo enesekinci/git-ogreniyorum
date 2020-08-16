@@ -28,6 +28,8 @@ Git deposundaki dosyanın adını değiştirmek
 Git deposundaki dosyanın konumunu değiştirmek
 	=> git mv old_file_name new_directory
 
+Dizindeki dosya değişiklerini geri almak (commit edilmemiş değişiklikler)
+	=> git checkout -- file_name
 
 
 
