@@ -54,6 +54,9 @@ Git projesindeki özel dosyaların kaydedilmesini engellemek
 	=> file_name dosyanin içine yazilacak.
 	=> git commit -m "dosyalar gizlendi"
 
+Git projesindeki gizli dosyaları listelemek
+	=> cat .gitignore
+
 
 
 
