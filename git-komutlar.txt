@@ -45,6 +45,9 @@ Git projesi için GITHUB Adresi eklemek
 Gitdeki kayıtlı depoları listelemek
 	=>git remote
 
+Git projesini Github'a push etmek
+	=> git push -u depo_name master (-u parametresi bütün dosyaların yollanmasını sağlıyor. master ise projenin dalını temsil ediyor.)
+
 
 
 
