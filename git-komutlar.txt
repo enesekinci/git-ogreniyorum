@@ -45,6 +45,8 @@ Git dosyalarındaki versiyonları değiştirmek (Geri almak)
 Git projesinde dosyaları geçiş bölgesinden silmeden -> commit silmek 
 	=> git reset --soft commit_code
 
+Git projesinde dosyaları geçiş bölgesinden kaldırarak commit silmek
+	=> git reset --mixed commit_code
 
 Git projesi için GITHUB Adresi eklemek
 	=> git remote add depo_name github_adress 
