@@ -32,11 +32,9 @@ Dizindeki dosya değişiklerini geri almak (commit edilmemiş değişiklikler)
 	=> git checkout -- file_name
 	=> git restore file_name (bu kullanım daha kolay)
 
-
-
-
-
-
+Geçiş bölgesindeki dosyanın geri alınması
+	=> git restore --staged file_name (dosya geçiş bölgesinden çıkarıldı)
+	=> git restore file_name (dosya durumu eskiye döndü, -> içini sildiysen geri almış oldun.)
 
 
 
