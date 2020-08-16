@@ -60,7 +60,20 @@ Git projesindeki gizli dosyaları listelemek
 Git .gitignore dosyasını düzenlemek
 	=> .gitignore (terminale bunu yazarak editorde direkt açabiliriz)
 
+Git projedesindeki yerel branch'ları listelemek
+	=> git branch
 
+Git projesindeki uzak ve yerel (tüm) branchları listelemek
+	=> git branch --all
+
+Git projesinde branch (yan-dal) oluşturmak
+	=> git branch branch_name
+
+Git projesinde branch'a geçmek
+	=> git checkout branch_name
+
+Git projesinde branchlar arasındaki farklılıkları listelemek
+	=>git diff branch_name branch_name
 
 
 
