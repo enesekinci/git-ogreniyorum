@@ -2,13 +2,16 @@ Git projesi oluşturmak
 	=> git init
 
 Gite dosya eklemek
-	=> git add [.(nokta) kullanarak dizindeki bütün dosyaları ekleyebiliriz veya dosya adı eklenebilir.] (Eklenen belgeler geçiş bölgesindedir.)
+	=> git add [.(nokta) veya * (yıldız) kullanarak dizindeki bütün dosyaları ekleyebiliriz veya dosya adı eklenebilir.] (Eklenen belgeler geçiş bölgesindedir.)
 
 Dosyaları git deposuna eklemek (Commit etmek)
 	=> git commit -m "commit açıklama"
+Dosyaları geçiş bölgesinden çıkarmak
+	=> git reset HEAD or file_name
 
 Git versionları listelemek
 	=> git log (kaydedilen commitleri - versionları listeler)
+	=> git log --oneline (kısa acıklamalarla gösterir.)
 
 Git projedeki değişiklikleri listelemek
 	=> git status (projedeki dizinle git deposu arasında fark varmı bunu listeler.)
@@ -59,6 +62,24 @@ Git projesindeki gizli dosyaları listelemek
 
 Git .gitignore dosyasını düzenlemek
 	=> .gitignore (terminale bunu yazarak editorde direkt açabiliriz)
+
+Git projedesindeki yerel branch'ları listelemek
+	=> git branch
+
+Git projesindeki uzak ve yerel (tüm) branchları listelemek
+	=> git branch --all
+
+Git projesinde branch (yan-dal) oluşturmak
+	=> git branch branch_name
+
+Git projesinde branch'a geçmek
+	=> git checkout branch_name
+
+Git projesinde branchlar arasındaki farklılıkları listelemek
+	=>git diff branch_name branch_name
+
+Git projesinde branch'ları birleştirmek
+	=> git merge branch_name branch_name (branch_name => birleşecek dallardan birinde bulunuluyorsa ikisini yazmaya gerek yok.)
 
 
 
