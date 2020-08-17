@@ -48,6 +48,9 @@ Git projesinde dosyaları geçiş bölgesinden silmeden -> commit silmek
 Git projesinde dosyaları geçiş bölgesinden kaldırarak commit silmek
 	=> git reset --mixed commit_code
 
+Git projesinde dosyaları çalışma ağacından, geçiş bölgesinden silerek commit kaldırmak
+	=> git reset --hard commit_code
+
 Git projesi için GITHUB Adresi eklemek
 	=> git remote add depo_name github_adress 
 
